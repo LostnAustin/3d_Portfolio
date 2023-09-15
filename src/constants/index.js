@@ -224,17 +224,17 @@ import {
     },
     {
       testimonial:
-        "Water Resource, Environmental Management, and GIS",
+        "Water Resource, Environmental Management, Geology, and GIS",
       name: "Texas State University",
-      designation: "B.A. Water Resources",
+      designation: "B.S. in Water Resources (Geography)",
       company: "3.3 GPA",
       image: txstate,
     },
     {
       testimonial:
-        "Liberal Arts education and Leadership in Environmental Design (LEED's)",
+        "Geography education and Leadership in Environmental Design (LEED's)",
       name: "Austin Community College",
-      designation: "A.A. of Liberal Arts, LEED's Green Associate (GA) -",
+      designation: "A.S. in Geography, LEED's Green Associate (GA) -",
       company: "U.S. Green Building Council (USGBC)",
       image: acc,
     },
