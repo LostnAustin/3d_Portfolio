@@ -87,6 +87,7 @@ const Contact = () => {
                 <input
                 type='text'
                 name='name'
+                autocomplete='on'
                 value={form.name}
                 onChange={handleChange}
                 placeholder="Enter Your Name"
@@ -100,6 +101,7 @@ const Contact = () => {
                 <input
                 type='text'
                 email='email'
+                autocomplete="on"
                 value={form.email}
                 onChange={handleChange}
                 placeholder="Enter Your email"
