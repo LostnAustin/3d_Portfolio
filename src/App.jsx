@@ -41,4 +41,7 @@ const App = () => {
   );
 }
 
+<script type="text/javascript" src="node_modules/default-passive-events/dist/index.js"></script>
+
+  
 export default App;
