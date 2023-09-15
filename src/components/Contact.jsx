@@ -100,6 +100,7 @@ const Contact = () => {
                 </span>
                 <input
                 type='text'
+                name='email'
                 email='email'
                 autocomplete="on"
                 value={form.email}
